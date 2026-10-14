@@ -38,3 +38,5 @@ MWUniversalCockpit-ATTRIBUTION.txt
 ## Authors and Licenses
 
 Made by pumbus2000  /  Toyota AE86 Sprinter Trueno Zenki model: Martin Trafas, [Sketchfab] (https://sketchfab.com/3d-models/toyota-ae86-sprinter-trueno-zenki-a5737bf3cc9b4179a6e5ebe173ff70d9), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). FP arms model: DJMaesen, [Sketchfab](https://sketchfab.com/3d-models/fp-arms-06ee1407117d4e5ab343becb4ee44bb6), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) . Both models have been adapted for in-game display. Mod code: OpenAI Codex. MinHook is used; its license notice can be found in `MinHook-LICENSE.txt`.
+
+![screen](preview.png)
