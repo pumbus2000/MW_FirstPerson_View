@@ -1,5 +1,5 @@
 ![screen](preview.png)
-[![Смотреть видео](https://img.youtube.com/vi/UCCXz37sXAtZtviErJZhSjdw/maxresdefault.jpg)]([https://youtu.be/cgv5bhlVUgI])
+Check video on Youtube - https://www.youtube.com/watch?v=cgv5bhlVUgI
 
 
 # Toyota AE86 Interior for NFS Most Wanted (2005)
