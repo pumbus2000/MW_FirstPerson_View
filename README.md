@@ -4,7 +4,7 @@ Check video on Youtube - https://www.youtube.com/watch?v=cgv5bhlVUgI
 
 # Toyota AE86 Interior for NFS Most Wanted (2005)
 
-This mod adds an interior view featuring smooth head movement, an animated steering wheel and driver’s hands, reflections in two mirrors, and a dashboard with a speedometer and tachometer.
+This mod adds an interior view featuring smooth head movement, an animated steering wheel and driver’s hands, reflections in two mirrors, and a dashboard with a speedometer and tachometer. Work with ALL cars. In future work to add inetriors for all cars. For now, I've at least created a simple driving animation, which the game never had before. 
 
 ## Requirements
 
